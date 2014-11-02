@@ -1,0 +1,58 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master",
+    "commit": "d5d97431e2bd83cf4b439f2051975ac763063209"
+  },
+  "dependencies": {
+    "basePackages": {
+      "router": {
+        "git": "https://github.com/peerlibrary/meteor-router.git",
+        "branch": "peerlibrary-new"
+      },
+      "meteor-file": {
+        "git": "https://github.com/peerlibrary/meteor-file.git",
+        "branch": "peerlibrary-new"
+      },
+      "variable": {
+        "git": "https://github.com/peerlibrary/meteor-variable.git",
+        "branch": "peerlibrary-new"
+      },
+      "cheerio": {
+        "git": "https://github.com/peerlibrary/meteor-cheerio.git",
+        "branch": "peerlibrary-new"
+      },
+      "vsivsi:job-collection": {
+        "git": "https://github.com/peerlibrary/meteor-job-collection.git",
+        "branch": "peerlibrary-new"
+      }
+    },
+    "packages": {
+      "router": {
+        "git": "https://github.com/peerlibrary/meteor-router.git",
+        "branch": "peerlibrary-new",
+        "commit": "d558a70b1d495bb4a18f48a854689b6ad6ab0849"
+      },
+      "meteor-file": {
+        "git": "https://github.com/peerlibrary/meteor-file.git",
+        "branch": "peerlibrary-new",
+        "commit": "aa3c6d4fb61ba17ebe3e72771d572c1e3addf36c"
+      },
+      "variable": {
+        "git": "https://github.com/peerlibrary/meteor-variable.git",
+        "branch": "peerlibrary-new",
+        "commit": "70f3902fbe6c739d9b57ab336d719524c6229ed6"
+      },
+      "cheerio": {
+        "git": "https://github.com/peerlibrary/meteor-cheerio.git",
+        "branch": "peerlibrary-new",
+        "commit": "7532ba864171826ebd6096edd80bfd17dec4dbc5"
+      },
+      "vsivsi:job-collection": {
+        "git": "https://github.com/peerlibrary/meteor-job-collection.git",
+        "branch": "peerlibrary-new",
+        "commit": "5758991bb35feda68d36dd253c93996d1c4e3753"
+      }
+    }
+  }
+}

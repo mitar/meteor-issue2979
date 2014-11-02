@@ -1,0 +1,28 @@
+{
+  "meteor": {
+    "branch": "master",
+    "git": "https://github.com/meteor/meteor.git"
+  },
+  "packages": {
+    "router": {
+      "branch": "peerlibrary-new",
+      "git": "https://github.com/peerlibrary/meteor-router.git"
+    },
+    "meteor-file": {
+      "branch": "peerlibrary-new",
+      "git": "https://github.com/peerlibrary/meteor-file.git"
+    },
+    "variable": {
+      "branch": "peerlibrary-new",
+      "git": "https://github.com/peerlibrary/meteor-variable.git"
+    },
+    "cheerio": {
+      "branch": "peerlibrary-new",
+      "git": "https://github.com/peerlibrary/meteor-cheerio.git"
+    },
+    "vsivsi:job-collection": {
+      "branch": "peerlibrary-new",
+      "git": "https://github.com/peerlibrary/meteor-job-collection.git"
+    }
+  }
+}
